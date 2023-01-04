@@ -70,5 +70,8 @@
     "volta": {
         "node": "16.13.2",
         "npm": "8.1.2"
+    },
+    "dependencies": {
+        "selenium-webdriver": "^4.7.1"
     }
 }
