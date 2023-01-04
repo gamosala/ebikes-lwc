@@ -24,7 +24,8 @@
     >true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
     <siteAdmin>gaorutwe.mosala@mindful-moose-fiu2es.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>gaorutwe.mosala@mindful-moose-fiu2es.com</siteGuestRecordDefaultOwner>
+    <siteGuestRecordDefaultOwner
+    >gaorutwe.mosala@mindful-moose-fiu2es.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
     <subdomain>mindful-moose-fiu2es-dev-ed</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
